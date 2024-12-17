@@ -1,0 +1,235 @@
+472  cd Desktop
+  473  mkdir "Aathif_aiml235"
+  474  cd  "Aathif_aiml235"
+  475  mkdir saas_application
+  476  cd saas_application
+  477  mkdir January February March April May June July August September October November December
+  478  cd January
+  479  touch "module1_config.json" "error_log.txt"
+  480  cd ..
+  481  cd Februaru
+  482  cd February
+  483  touch "module1_config.json" "error_log.txt"
+  484  cd ..
+  485  cd March
+  486  touch "module1_config.json" "error_log.txt"
+  487  cd ..
+  488  cd April
+  489  touch "module1_config.json" "error_log.txt"
+  490  cd ..
+  491  cd May
+  492  touch "module1_config.json" "error_log.txt"
+  493  cd ..
+  494  cd June
+  495  touch "module1_config.json" "error_log.txt"
+  496  cd ..
+  497  cd July
+  498  touch "module1_config.json" "error_log.txt"
+  499  cd ..
+  500  cd August
+  501  touch "module1_config.json" "error_log.txt"
+  502  cd ..
+  503  cd September
+  504  cd ..
+  505  cd September
+  506  touch "module1_config.json" "error_log.txt"
+  507  cd ..
+  508  cd October
+  509  touch "module1_config.json" "error_log.txt"
+  510  cd ..
+  511  cd November 
+  512  touch "module1_config.json" "error_log.txt"
+  513  cd ..
+  514  cd December
+  515  touch "module1_config.json" "error_log.txt"
+  516  cd ..
+  517  cd January
+  518  pwd
+  519  mv "error_log.txt" /home/skacas/Desktop/Aathif_aiml235/saas_application/February
+  520  mv "module1_config.json" "module1_v2_config.json"
+  521  cd ..
+  522  cd February
+  523  mv "module1_config.json" "module1_v2_config.json"
+  524  cd ..
+  525  cd March
+  526  mv "module1_config.json" "module1_v2_config.json"
+  527  cd ..
+  528  cd April
+  529  mv "module1_config.json" "module1_v2_config.json"
+  530  cd ..
+  531  cd May
+  532  mv "module1_config.json" "module1_v2_config.json"
+  533  cd ..
+  534  cd June
+  535  mv "module1_config.json" "module1_v2_config.json"
+  536  cd ..
+  537  cd July
+  538  mv "module1_config.json" "module1_v2_config.json"
+  539  cd ..
+  540  cd August
+  541  mv "module1_config.json" "module1_v2_config.json"
+  542  cd ..
+  543  cd September
+  544  mv "module1_config.json" "module1_v2_config.json"
+  545  cd ..
+  546  cd October
+  547  mv "module1_config.json" "module1_v2_config.json"
+  548  cd ..
+  549  cd November
+  550  mv "module1_config.json" "module1_v2_config.json"
+  551  cd ..
+  552  cd December
+  553  mv "module1_config.json" "module1_v2_config.json"
+  554  cd ..
+  555  ls
+  556  ls -al
+  557  touch "saas_config.txt"
+  558  chmod 700 "saas_config.txt"
+  559  ls
+  560  ls -al
+  561  mkdir backup
+  562  cd february
+  563  cd February
+  564  cp "module1_v2_config.json" /home/skacas/Desktop/Aathif_aiml235/saas_application/backup
+  565  cd ..
+  566  cd /Saas platform
+  567  cd /"Saas platform"
+  568  ls "Saas platform"
+  569  cd Jauary
+  570  cd January
+  571  mv "error_log.txt" /home/skacas/Desktop/Aathif_aiml235/saas_application
+  572  rm "module1_v2_config.json" 
+  573  cd ..
+  574  cd February
+  575  cd ..
+  576  cd March
+  577  cd ..
+  578  cd April
+  579  cd ..
+  580  cd May
+  581  cd ..
+  582  cd June
+  583  cd ..
+  584  cd July
+  585  cd ..
+  586  cd August
+  587  cd ..
+  588  cd September
+  589  cd ..
+  590  cd October
+  591  cd ..
+  592  cd November
+  593  cd ..
+  594  rm -r January
+  595  touch saas_log_1.txt saas_log_2.txt ... saas_log_100.txt
+  596  history
+  597  cd December
+  598  nano error_log.txt
+  599  cd ..
+  600  mkdir Users
+  601  cd Users
+  602  mkdir # Server Management for Saas App
+  603  ---
+  604  ### **Directory Creation & Organization:**
+  605  1. Create a directory named "saas_application".
+  606  2. Inside "saas_application", create 12 subdirectories, each named after a month (e.g., "January", "February", etc.).
+  607  3. Inside each month’s directory, create files representing logs, configuration files, or backup data for various SaaS modules (e.g., "module1_config.json", "error_log.txt").
+  608  ---
+  609  ### **Move and Rename Files:**
+  610  1. Move an application log file (e.g., "error_log.txt") from one month’s directory to another (e.g., from "January" to "February").
+  611  2. Rename a configuration file (e.g., "module1_config.json" to "module1_v2_config.json") and verify the change by listing the contents of the directory.
+  612  ---
+  613  ### **Navigation & Listing Files:**
+  614  1. Navigate to the "saas_application" directory.
+  615  2. List the contents of the directory and verify the presence of all subdirectories for each month (e.g., "January", "February") and relevant SaaS logs or configuration files.
+  616  ---
+  617  ### **File Permissions Management:**
+  618  1. Create a file named "saas_config.txt" in the "saas_application" directory to store configuration settings for the SaaS platform.
+  619  2. Change the permissions of the file so that only system administrators can read, write, and execute it.
+  620  3. Verify the permission changes by listing the file's details to ensure only authorized users can modify the SaaS configurations.
+
+---
+
+### **Backup Files:**
+
+1. Create a backup of an important configuration file (e.g., "module1_v2_config.json") by copying it to a backup directory.
+2. Verify the backup operation by listing the contents of the backup directory.
+
+---
+
+### **Removing Files & Directories:**
+
+1. Delete an outdated log file (e.g., "error_log_old.txt") in the "saas_application" directory that is no longer needed.
+2. Remove an empty subdirectory from one of the months' directories (e.g., remove the "March" directory if it's empty and no longer needed).
+  621  ---
+  622  ### **Creating a Script for File Generation:**
+  623  1. Write a script that generates 100 unique log files (e.g., "saas_log_1.txt", "saas_log_2.txt") in the "saas_application" directory to simulate various system events for the SaaS application.
+  624  ---
+  625  ### **Exploring File History:**
+  626  1. View the command history to see the last 20 commands executed related to the SaaS application’s log management, including file creation, editing, and backup tasks.
+  627  2. Search the history for any command related to log file manipulation or backup operations.
+  628  ---
+  629  ### **System Monitoring:**
+  630  1. Check the system’s uptime to ensure that the SaaS Application Server has been running without interruptions and can handle continuous user access.
+  631  2. View the system’s load and resource usage statistics to confirm that the server can efficiently serve the SaaS application with high availability.
+  632  ---
+  633  ### **Checking File Ownership and Permissions:**
+  634  1. Check the ownership and group of the "saas_config.txt" file and verify whether they are correct to ensure that only authorized personnel can modify the application configuration.
+  635  ---
+  636  ### **Ping Test & Network Verification:**
+  637  1. Verify network connectivity by pinging the server hosting the SaaS application to ensure users can access it.
+  638  2. Record the response times and verify that network latency is low for fast access to the SaaS platform.
+  639  ---
+  640  ### **Search for Specific Files or Content:**
+  641  1. Search for a specific log file (e.g., "saas_log_1.txt") within the "saas_application" directory.
+  642  2. Search for a specific string of text (e.g., "error 404") inside one of the log files to locate error occurrences for troubleshooting.
+  643  ---
+  644  ### **Create a Directory for Each User:**
+  645  1. Create a directory for each SaaS application user (e.g., "user_01", "user_02") to store their individual logs, preferences, and configurations.
+  646  2. Assign appropriate permissions to ensure that only the respective user can modify or access their files.
+  647  ---
+  648  ### **Creating a Script for Directory Cleanup:**
+  649  1. Write a script that deletes all empty subdirectories from the "saas_application" directory to keep the system organized and remove unused directories related to individual users or logs.
+  650  ---
+  651  ### **File Sorting & Management:**
+  652  1. Sort log files by size (e.g., large error logs, user logs) and list the files based on their size.
+  653  2. Create a report listing the largest and smallest log files to optimize storage and ensure the most relevant files are easily accessible.
+  654  ---
+  655  ### **File Type Identification:**
+  656  1. Identify and list specific types of files (e.g., log files, configuration files) in the "saas_application" directory to organize and separate logs from configuration data.
+  657  2. Filter and list files based on their type (e.g., only .log or .json configuration files) to streamline review of logs and settings.
+  658  ---
+  659  ### **File Compression and Archive:**
+  660  1. Compress the "saas_application" directory into a single archive file for easy backup and storage of all logs, configuration files, and user data.
+  661  2. Verify the contents of the archive without extracting it to ensure that all relevant files are included in the backup.
+  662  ---
+  663  ### NOTE: Finally fetch all the project commands from history and create a detailed project report "your_name_rollname.md" and push it to git your git repository
+  664  mkdir "user_01" "user_02"
+  665  chmod 700 "user_01"
+  666  chmod 700 "user_02"
+  667  cd ..
+  668  touch saas_log_3.txt
+  669  touch saas_log_4.txt
+  670  touch saas_log_5.txt
+  671  touch saas_log_6.txt
+  672  touch saas_log_7.txt
+  673  touch saas_log_8.txt
+  674  touch saas_log_9.txt
+  675  touch saas_log_10.txt
+  676  touch saas_log_111.txt
+  677  mv saas_log_111.txt saas_log_11.txt
+  678  touch saas_log_12.txt
+  679  touch saas_log_13.txt
+  680  touch saas_log_14.txt
+  681  touch saas_log_15.txt
+  682  mkdir "Log Files"
+  683  cd "Log Files"
+  684  touch saas_log_16.txt
+  685  touch saas_log_17.txt
+  686  cd ..
+  687  mkdir "Detail Project"
+  688  mv "Detail Project" "Detailed Project"
+  689  cd "Detailed Project"
+  690  cd..
+  691  cd ..
+  692  cd saas_application
